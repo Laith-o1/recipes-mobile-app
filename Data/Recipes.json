@@ -1,0 +1,238 @@
+[
+    {
+      "id": 0,
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 large eggs",
+        "2 cups semisweet chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F. In a medium bowl, whisk together flour, baking soda, and salt. Set aside.",
+        "In a large mixing bowl, beat butter, granulated sugar, brown sugar, and vanilla extract until creamy. Add eggs, one at a time, beating well after each addition. Gradually add flour mixture, mixing until just combined. Stir in chocolate chips.",
+        "Drop rounded tablespoonfuls of dough 2 inches apart onto ungreased baking sheets. Bake until cookies are golden brown, 8 to 10 minutes. Let cool on baking sheets for 2 minutes; remove to wire racks to cool completely."
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Spaghetti with Meatballs",
+      "ingredients": [
+        "1 pound ground beef",
+        "1/2 cup bread crumbs",
+        "1/4 cup grated Parmesan cheese",
+        "1/4 cup chopped parsley",
+        "1 large egg, beaten",
+        "1 clove garlic, minced",
+        "1 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1 tablespoon olive oil",
+        "1 (28-ounce) can crushed tomatoes",
+        "1 pound spaghetti"
+      ],
+      "instructions": [
+        "In a large mixing bowl, combine ground beef, bread crumbs, Parmesan cheese, parsley, egg, garlic, salt, and pepper. Mix well and form into small meatballs.",
+        "Heat olive oil in a large saucepan over medium heat. Add meatballs and cook until browned on all sides. Add crushed tomatoes and bring to a simmer. Reduce heat to low and simmer for 20 minutes.",
+        "Meanwhile, bring a large pot of salted water to a boil. Add spaghetti and cook according to package instructions until al dente. Drain and return to the pot.",
+        "Add the meatballs and sauce to the pot with the spaghetti and toss to combine. Serve hot."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Parmesan",
+      "ingredients": [
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "2 large eggs, beaten",
+        "1 cup Italian seasoned bread crumbs",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup chopped fresh parsley",
+        "1/4 cup olive oil",
+        "4 boneless skinless chicken breast halves",
+        "1 (24 ounce) jar pasta sauce",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+        "Place flour in a shallow dish. Season with salt and pepper. Place eggs in a separate shallow dish. Combine bread crumbs, 1/2 cup Parmesan cheese, and parsley in a third shallow dish.",
+        "Heat olive oil in a large skillet over medium heat. Dip chicken in flour to coat, shaking off excess. Dip chicken in egg, and then dredge in bread crumb mixture to coat. Place chicken in the hot oil, and cook until golden brown on both sides, 3 to 5 minutes per side. Transfer chicken to a 9x13 inch baking dish.",
+        "Pour pasta sauce over chicken. Sprinkle mozzarella cheese and remaining 1/2 cup Parmesan cheese over sauce. Cover with aluminum foil.",
+        "Bake in the preheated oven until chicken is no longer pink in the center and the juices run clear, 30 to 40 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Grilled Cheese Sandwich",
+      "ingredients": [
+        "2 slices bread",
+        "1 slice cheddar cheese",
+        "1 slice mozzarella cheese",
+        "1 tablespoon butter"
+      ],
+      "instructions": [
+        "Butter one side of each slice of bread.",
+        "Place one slice, butter-side-down, in a nonstick pan over medium heat. Top with cheddar cheese and mozzarella cheese, then top with the other slice of bread, butter-side-up.",
+        "Cook until the bottom slice of bread is golden brown and the cheese is melted, about 3-4 minutes per side. Serve hot."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Macaroni and Cheese",
+      "ingredients": [
+        "1 pound elbow macaroni",
+        "4 tablespoons butter",
+        "4 tablespoons all-purpose flour",
+        "3 cups milk",
+        "1 cup grated cheddar cheese",
+        "1 cup grated mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F. Butter a 9x13-inch baking dish.",
+        "Bring a large pot of salted water to a boil. Add macaroni and cook according to package instructions until al dente. Drain and set aside.",
+        "In a large saucepan, melt butter over medium heat. Add flour and whisk until smooth. Gradually add milk, whisking constantly, and bring to a boil. Reduce heat to low and simmer until thickened, about 2-3 minutes. Remove from heat and stir in cheddar cheese, mozzarella cheese, Parmesan cheese, salt, and pepper.",
+        "Add the macaroni to the cheese sauce and stir to combine. Pour into the prepared baking dish and bake for 30 minutes, or until bubbly and golden brown on top."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pancakes",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons sugar",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon salt",
+        "1 cup milk",
+        "1 large egg",
+        "2 tablespoons butter, melted"
+      ],
+      "instructions": [
+        "In a large mixing bowl, whisk together flour, sugar, baking powder, and salt. Make a well in the center and add milk, egg, and melted butter. Stir until just combined.",
+        "Heat a large nonstick pan or griddle over medium heat. Lightly coat with cooking spray or butter. Pour 1/4 cupfuls of batter onto the pan, spacing them evenly. Cook until bubbles form on the surface, 1 to 2 minutes. Flip carefully with a thin spatula, and cook until browned on the underside, 1 to 2 minutes more.",
+        "Transfer pancakes to a plate and repeat with the remaining batter. Serve hot with your favorite toppings."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fried Rice",
+      "ingredients": [
+        "2 cups cooked white rice",
+        "1 tablespoon vegetable oil",
+        "1/2 cup diced carrots",
+        "1/2 cup peas",
+        "1/2 cup diced ham",
+        "2 large eggs, beaten",
+        "2 tablespoons soy sauce",
+        "1/4 teaspoon black pepper"
+      ],
+      "instructions": [
+        "Heat a wok or large frying pan over high heat. Add vegetable oil and swirl to coat. Add carrots and peas and stir-fry for 1-2 minutes.",
+        "Push the vegetables to the sides of the pan and add the beaten eggs to the center. Scramble the eggs until they are cooked, then mix them together with the vegetables.",
+        "Add the cooked rice, ham, soy sauce, and pepper to the pan. Stir-fry until the rice is heated through and the ingredients are well combined.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Taco Salad",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 packet taco seasoning mix",
+        "1 head iceberg lettuce, shredded",
+        "1 cup cherry tomatoes, halved",
+        "1 cup canned kidney beans, rinsed and drained",
+        "1 cup grated cheddar cheese",
+        "1/2 cup crumbled tortilla chips",
+        "1/2 cup ranch dressing"
+      ],
+      "instructions": [
+        "In a large skillet, cook ground beef over medium heat until browned. Add taco seasoning mix and 1/2 cup water and stir to combine. Bring to a simmer and cook for 5 minutes, or until the beef is fully cooked and the seasoning mix is well absorbed.",
+        "In a large serving bowl, combine lettuce, tomatoes, kidney beans, cheese, and tortilla chips. Add the cooked ground beef and toss to combine.",
+        "Serve the salad with ranch dressing on the side, or drizzle the dressing over the top of the salad before serving."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hamburgers",
+      "ingredients": [
+        "1 pound ground beef",
+        "1/4 cup diced onion",
+        "1 clove garlic, minced",
+        "1 teaspoon Worcestershire sauce",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "4 hamburger buns",
+        "4 slices cheddar cheese (optional)",
+        "Lettuce, tomato, and onion for serving (optional)"
+      ],
+      "instructions": [
+        "In a large mixing bowl, combine ground beef, onion, garlic, Worcestershire sauce, salt, and pepper. Mix well and form into 4 patties.",
+        "Heat a large nonstick pan or grill pan over medium-high heat. Add the patties and cook until browned on both sides and cooked to your desired level of doneness, about 5-7 minutes per side for medium.",
+        "If using cheese, place a slice on top of each patty during the last minute of cooking. Place the patties on the buns and top with lettuce, tomato, and onion, if desired. Serve hot."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Meatloaf",
+      "ingredients": [
+        "1 pound ground beef",
+        "1/2 cup bread crumbs",
+        "1/2 cup milk",
+        "1/2 cup diced onion",
+        "1 large egg, beaten",
+        "1 clove garlic, minced",
+        "1 teaspoon Worcestershire sauce",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 cup ketchup"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F. Lightly grease a 9x5-inch loaf pan.",
+        "In a large mixing bowl, combine ground beef, bread crumbs, milk, onion, egg, garlic, Worcestershire sauce, salt, and pepper. Mix well and press into the prepared loaf pan.",
+        "Spread ketchup over the top of the meatloaf. Bake for 1 hour, or until the meatloaf is cooked through and the internal temperature reaches 160°F."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Peanut Butter Cookies",
+      "ingredients": [
+        "1 cup peanut butter",
+        "1 cup granulated sugar",
+        "1 large egg"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F. Line a baking sheet with parchment paper.",
+        "In a large mixing bowl, beat peanut butter and sugar until well combined. Add egg and beat until fully incorporated.",
+        "Drop rounded tablespoonfuls of dough 2 inches apart onto the prepared baking sheet. Use a fork to flatten the cookies and create a crisscross pattern on top.",
+        "Bake for 8-10 minutes, or until the cookies are set and starting to turn golden brown around the edges. Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Roast Chicken",
+      "ingredients": [
+        "1 (4-pound) whole chicken",
+        "1 lemon, quartered",
+        "2 tablespoons olive oil",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon paprika",
+        "1/4 teaspoon garlic powder"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Place a rack in a roasting pan.",
+        "Rinse the chicken inside and out and pat dry with paper towels. Place the lemon wedges inside the cavity of the chicken.",
+        "In a small bowl, mix together olive oil, salt, pepper, paprika, and garlic powder. Brush the mixture over the surface of the chicken.",
+        "Place the chicken, breast-side up, on the rack in the roasting pan. Roast for 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured in the thickest part of the thigh."
+      ]
+    }
+  ]
